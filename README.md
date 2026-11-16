@@ -2,18 +2,27 @@
 Monthly Sales Data Analysis using Python
 
 
-Project Overview
+📌 Project Overview
 
-This project analyses monthly sales data to understand business performance, product sales, regional sales and profit.
+This project focuses on analysing monthly sales data using Python. The main goal is to understand business performance through sales, products, regions, and profit analysis.
 
-Dataset
+🎯 Project Objectives
+
+- Analyse monthly sales performance.
+- Identify top-performing products.
+- Compare sales across different regions.
+- Understand profit performance.
+- Visualize sales trends using charts.
+
+📂 Dataset Information
 
 - Total Records: 500
 - Total Columns: 16
 - Products: 7
 - Period: January to December
+- File: monthly_sales_dataset_500_rows.csv
 
-Tools & Technologies
+🛠️ Tools & Technologies
 
 - Python
 - NumPy
@@ -21,20 +30,36 @@ Tools & Technologies
 - Matplotlib
 - Google Colab
 
-Analysis Performed
+🔍 Analysis Performed
 
-- Data Cleaning
-- Monthly Sales Analysis
-- Product-wise Sales Analysis
-- Region-wise Sales Analysis
-- Profit Analysis
-- Sales Channel Analysis
-- Data Visualization
+1. Data Cleaning
+2. Monthly Sales Analysis
+3. Product-wise Sales Analysis
+4. Region-wise Sales Analysis
+5. Profit Analysis
+6. Sales Channel Analysis
+7. Quantity Analysis
 
-Project Objective
+📈 Key Findings
 
-To convert raw sales data into meaningful business insights and support better business decisions.
+- Laptop generated the highest yearly sales revenue among the products.
+- Sales performance was compared across 12 months.
+- Product performance was compared across different regions.
+- Profit and sales channels were analysed.
 
-Author
+💡 Business Benefits
 
-Poobalan D 
+- Helps identify high-performing products.
+- Helps understand regional sales performance.
+- Supports better business decisions.
+- Helps businesses understand sales trends.
+
+🏁 Conclusion
+
+This project helped me gain practical experience in data analysis using Python libraries. It also helped me understand how raw data can be converted into meaningful business insights through data visualization.
+
+👨‍💻 Author
+
+Poobalan D
+
+B.Com (Corporate Secretaryship) | 2026 
