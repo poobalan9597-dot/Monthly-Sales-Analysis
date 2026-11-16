@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Month,Month_Number,Quarter,Product,Category,Region,Sales_Channel,Quantity,Unit_Price,Sales,Cost,Profit,Payment_Mode,Customer_ID
+ORD0001,2025-01-02,January,1,Q1,Laptop,Electronics,Hyderabad,Store,7,62602,438214,319429.63,118784.37,Credit Card,CUST041
+ORD0002,2025-01-03,January,1,Q1,Mobile,Electronics,Hyderabad,Online,6,34876,209256,170747.98,38508.02,Net Banking,CUST010
+ORD0003,2025-01-03,January,1,Q1,Headphones,Electronics,Chennai,Online,3,2999,8997,7358.82,1638.18,Credit Card,CUST139
+ORD0004,2025-01-04,January,1,Q1,Mobile,Electronics,Chennai,Online,7,33052,231364,152637.22,78726.78,Debit Card,CUST024
+ORD0005,2025-01-06,January,1,Q1,Headphones,Electronics,Chennai,Online,4,1227,4908,3108.21,1799.79,UPI,CUST125
+ORD0006,2025-01-07,January,1,Q1,Laptop,Electronics,Hyderabad,Online,5,56590,282950,221654.96,61295.04,Net Banking,CUST048
+ORD0007,2025-01-07,January,1,Q1,Monitor,Electronics,Hyderabad,Store,6,12550,75300,62067.65,13232.35,UPI,CUST074
+ORD0008,2025-01-08,January,1,Q1,Mobile,Electronics,Bengaluru,Store,2,32450,64900,44122.46,20777.54,Net Banking,CUST063
+ORD0009,2025-01-08,January,1,Q1,Mobile,Electronics,Coimbatore,Store,1,13132,13132,9792.54,3339.46,UPI,CUST014
+ORD0010,2025-01-09,January,1,Q1,Keyboard,Electronics,Bengaluru,Online,1,802,802,675.25,126.75,Net Banking,CUST127
+ORD0011,2025-01-09,January,1,Q1,Keyboard,Electronics,Hyderabad,Store,2,2315,4630,3761.81,868.19,Cash,CUST095
+ORD0012,2025-01-09,January,1,Q1,Smartwatch,Electronics,Hyderabad,Store,6,8355,50130,32699.42,17430.58,Credit Card,CUST078
+ORD0013,2025-01-10,January,1,Q1,Monitor,Electronics,Tiruppur,Store,6,16434,98604,70247.61,28356.39,Cash,CUST038
+ORD0014,2025-01-10,January,1,Q1,Mobile,Electronics,Chennai,Online,1,13406,13406,9849.26,3556.74,Cash,CUST035
+ORD0015,2025-01-12,January,1,Q1,Tablet,Electronics,Coimbatore,Online,4,20513,82052,57321.44,24730.56,Credit Card,CUST028
+ORD0016,2025-01-12,January,1,Q1,Smartwatch,Electronics,Bengaluru,Store,3,4736,14208,12044.49,2163.51,Net Banking,CUST073
+ORD0017,2025-01-13,January,1,Q1,Keyboard,Electronics,Tiruppur,Online,4,1224,4896,4032.61,863.39,Cash,CUST031
+ORD0018,2025-01-14,January,1,Q1,Keyboard,Electronics,Chennai,Online,4,1651,6604,5097.63,1506.37,UPI,CUST111
+ORD0019,2025-01-14,January,1,Q1,Laptop,Electronics,Bengaluru,Store,5,50465,252325,208564.93,43760.07,UPI,CUST143
+ORD0020,2025-01-16,January,1,Q1,Smartwatch,Electronics,Tiruppur,Online,1,8544,8544,6785.4,1758.6,Debit Card,CUST141
+ORD0021,2025-01-16,January,1,Q1,Keyboard,Electronics,Hyderabad,Online,7,861,6027,4895.2,1131.8,Debit Card,CUST067
+ORD0022,2025-01-17,January,1,Q1,Keyboard,Electronics,Chennai,Online,6,2494,14964,12675.2,2288.8,Cash,CUST089
+ORD0023,2025-01-17,January,1,Q1,Laptop,Electronics,Bengaluru,Online,4,47566,190264,125785.42,64478.58,Debit Card,CUST002
+ORD0024,2025-01-22,January,1,Q1,Smartwatch,Electronics,Bengaluru,Store,4,7021,28084,20934.7,7149.3,Net Banking,CUST120
+ORD0025,2025-01-24,January,1,Q1,Headphones,Electronics,Tiruppur,Store,2,2621,5242,4421.61,820.39,UPI,CUST118
+ORD0026,2025-01-24,January,1,Q1,Laptop,Electronics,Bengaluru,Online,1,64473,64473,50152.72,14320.28,Net Banking,CUST117
+ORD0027,2025-01-25,January,1,Q1,Mobile,Electronics,Coimbatore,Store,6,27438,164628,137564.47,27063.53,Cash,CUST096
+ORD0028,2025-01-25,January,1,Q1,Mobile,Electronics,Coimbatore,Online,3,30290,90870,63196.96,27673.04,Net Banking,CUST023
+ORD0029,2025-01-28,January,1,Q1,Laptop,Electronics,Tiruppur,Online,4,70276,281104,200145.14,80958.86,Cash,CUST027
+ORD0030,2025-01-29,January,1,Q1,Headphones,Electronics,Bengaluru,Online,7,4312,30184,24366.71,5817.29,UPI,CUST057
+ORD0031,2025-01-29,January,1,Q1,Smartwatch,Electronics,Bengaluru,Online,1,11873,11873,10071.71,1801.29,UPI,CUST041
+ORD0032,2025-01-30,January,1,Q1,Keyboard,Electronics,Tiruppur,Store,5,2268,11340,7362.62,3977.38,UPI,CUST103
+ORD0033,2025-01-31,January,1,Q1,Headphones,Electronics,Tiruppur,Online,1,845,845,691.29,153.71,Credit Card,CUST146
+ORD0034,2025-01-31,January,1,Q1,Headphones,Electronics,Tiruppur,Store,4,1967,7868,5448.3,2419.7,Cash,CUST118
+ORD0035,2025-01-31,January,1,Q1,Headphones,Electronics,Hyderabad,Store,3,1209,3627,3014.07,612.93,Credit Card,CUST117
+ORD0036,2025-02-01,February,2,Q1,Keyboard,Electronics,Chennai,Store,1,682,682,586.37,95.63,UPI,CUST098
+ORD0037,2025-02-01,February,2,Q1,Smartwatch,Electronics,Hyderabad,Online,5,3359,16795,10529.79,6265.21,Credit Card,CUST068
+ORD0038,2025-02-02,February,2,Q1,Mobile,Electronics,Chennai,Store,6,31650,189900,126771.36,63128.64,Credit Card,CUST099
+ORD0039,2025-02-02,February,2,Q1,Monitor,Electronics,Chennai,Store,1,7397,7397,4677.85,2719.15,Cash,CUST148
+ORD0040,2025-02-03,February,2,Q1,Keyboard,Electronics,Coimbatore,Online,2,2431,4862,4005.6,856.4,Cash,CUST121
+ORD0041,2025-02-03,February,2,Q1,Monitor,Electronics,Bengaluru,Store,1,17206,17206,13550.57,3655.43,Net Banking,CUST067
+ORD0042,2025-02-03,February,2,Q1,Laptop,Electronics,Bengaluru,Store,2,57317,114634,74510.0,40124.0,Debit Card,CUST112
+ORD0043,2025-02-04,February,2,Q1,Headphones,Electronics,Hyderabad,Store,1,3131,3131,2057.85,1073.15,Cash,CUST008
+ORD0044,2025-02-04,February,2,Q1,Mobile,Electronics,Tiruppur,Store,2,12362,24724,19541.28,5182.72,Cash,CUST092
+ORD0045,2025-02-04,February,2,Q1,Headphones,Electronics,Bengaluru,Online,1,1001,1001,630.79,370.21,Net Banking,CUST069
+ORD0046,2025-02-05,February,2,Q1,Smartwatch,Electronics,Bengaluru,Online,2,6410,12820,8230.61,4589.39,Credit Card,CUST148
+ORD0047,2025-02-05,February,2,Q1,Smartwatch,Electronics,Bengaluru,Store,4,6856,27424,21191.57,6232.43,Debit Card,CUST067
+ORD0048,2025-02-07,February,2,Q1,Mobile,Electronics,Tiruppur,Store,7,17710,123970,85827.19,38142.81,Debit Card,CUST105
+ORD0049,2025-02-08,February,2,Q1,Mobile,Electronics,Hyderabad,Online,4,26933,107732,70631.83,37100.17,Debit Card,CUST104
+ORD0050,2025-02-08,February,2,Q1,Tablet,Electronics,Hyderabad,Online,4,28706,114824,74476.25,40347.75,Net Banking,CUST042
+ORD0051,2025-02-09,February,2,Q1,Laptop,Electronics,Tiruppur,Online,5,53227,266135,204028.94,62106.06,Cash,CUST146
+ORD0052,2025-02-09,February,2,Q1,Tablet,Electronics,Hyderabad,Store,3,17301,51903,34890.8,17012.2,Cash,CUST048
+ORD0053,2025-02-09,February,2,Q1,Monitor,Electronics,Tiruppur,Online,3,7396,22188,16281.37,5906.63,Credit Card,CUST015
+ORD0054,2025-02-11,February,2,Q1,Smartwatch,Electronics,Tiruppur,Store,4,5833,23332,18396.83,4935.17,Debit Card,CUST098
+ORD0055,2025-02-12,February,2,Q1,Smartwatch,Electronics,Bengaluru,Online,2,5504,11008,8275.76,2732.24,Debit Card,CUST080
+ORD0056,2025-02-13,February,2,Q1,Smartwatch,Electronics,Hyderabad,Store,3,7501,22503,16721.02,5781.98,Debit Card,CUST133
+ORD0057,2025-02-13,February,2,Q1,Laptop,Electronics,Tiruppur,Online,6,69869,419214,312258.27,106955.73,Cash,CUST037
+ORD0058,2025-02-13,February,2,Q1,Tablet,Electronics,Chennai,Online,6,22789,136734,100990.91,35743.09,UPI,CUST011
+ORD0059,2025-02-14,February,2,Q1,Monitor,Electronics,Chennai,Store,6,16262,97572,67065.8,30506.2,Credit Card,CUST074
+ORD0060,2025-02-14,February,2,Q1,Mobile,Electronics,Hyderabad,Online,3,28808,86424,68987.63,17436.37,Debit Card,CUST125
+ORD0061,2025-02-15,February,2,Q1,Smartwatch,Electronics,Coimbatore,Online,3,10638,31914,20963.26,10950.74,Cash,CUST101
+ORD0062,2025-02-16,February,2,Q1,Laptop,Electronics,Chennai,Store,3,58724,176172,149750.25,26421.75,Debit Card,CUST116
+ORD0063,2025-02-16,February,2,Q1,Tablet,Electronics,Bengaluru,Store,6,19664,117984,93124.48,24859.52,Credit Card,CUST139
+ORD0064,2025-02-16,February,2,Q1,Smartwatch,Electronics,Bengaluru,Store,1,5669,5669,3799.22,1869.78,Debit Card,CUST025
+ORD0065,2025-02-17,February,2,Q1,Smartwatch,Electronics,Hyderabad,Store,3,4076,12228,10484.19,1743.81,Debit Card,CUST031
+ORD0066,2025-02-17,February,2,Q1,Keyboard,Electronics,Tiruppur,Online,7,2123,14861,9718.84,5142.16,Net Banking,CUST059
+ORD0067,2025-02-18,February,2,Q1,Tablet,Electronics,Bengaluru,Online,6,16200,97200,70383.2,26816.8,Debit Card,CUST138
+ORD0068,2025-02-18,February,2,Q1,Mobile,Electronics,Hyderabad,Online,2,19046,38092,31909.85,6182.15,Cash,CUST035
+ORD0069,2025-02-21,February,2,Q1,Mobile,Electronics,Tiruppur,Store,2,18717,37434,28477.8,8956.2,Debit Card,CUST003
+ORD0070,2025-02-21,February,2,Q1,Laptop,Electronics,Hyderabad,Store,2,52259,104518,85962.0,18556.0,Debit Card,CUST098
+ORD0071,2025-02-21,February,2,Q1,Tablet,Electronics,Bengaluru,Store,6,25053,150318,95293.5,55024.5,Credit Card,CUST112
+ORD0072,2025-02-21,February,2,Q1,Headphones,Electronics,Coimbatore,Online,3,4061,12183,10022.65,2160.35,Debit Card,CUST116
+ORD0073,2025-02-21,February,2,Q1,Smartwatch,Electronics,Tiruppur,Online,3,10594,31782,26642.61,5139.39,Debit Card,CUST019
+ORD0074,2025-02-21,February,2,Q1,Keyboard,Electronics,Hyderabad,Store,3,1330,3990,2951.47,1038.53,Debit Card,CUST016
+ORD0075,2025-02-22,February,2,Q1,Laptop,Electronics,Hyderabad,Online,7,55761,390327,301098.15,89228.85,UPI,CUST002
+ORD0076,2025-02-22,February,2,Q1,Tablet,Electronics,Bengaluru,Store,2,19747,39494,24721.57,14772.43,Cash,CUST068
+ORD0077,2025-02-24,February,2,Q1,Tablet,Electronics,Tiruppur,Online,1,19613,19613,12194.49,7418.51,Credit Card,CUST026
+ORD0078,2025-02-25,February,2,Q1,Smartwatch,Electronics,Hyderabad,Store,5,7495,37475,32064.86,5410.14,Net Banking,CUST072
+ORD0079,2025-02-25,February,2,Q1,Monitor,Electronics,Hyderabad,Online,5,15376,76880,60963.31,15916.69,Net Banking,CUST094
+ORD0080,2025-02-25,February,2,Q1,Keyboard,Electronics,Tiruppur,Store,7,1475,10325,6684.25,3640.75,Net Banking,CUST067
+ORD0081,2025-02-25,February,2,Q1,Smartwatch,Electronics,Bengaluru,Online,7,7755,54285,46291.84,7993.16,Net Banking,CUST024
+ORD0082,2025-02-26,February,2,Q1,Tablet,Electronics,Bengaluru,Online,6,27322,163932,131144.95,32787.05,UPI,CUST019
+ORD0083,2025-02-28,February,2,Q1,Tablet,Electronics,Bengaluru,Store,4,15614,62456,46063.04,16392.96,Net Banking,CUST129
+ORD0084,2025-02-28,February,2,Q1,Headphones,Electronics,Chennai,Store,7,2003,14021,10077.99,3943.01,Cash,CUST013
+ORD0085,2025-02-28,February,2,Q1,Mobile,Electronics,Hyderabad,Online,4,24776,99104,83438.47,15665.53,Net Banking,CUST036
+ORD0086,2025-03-02,March,3,Q1,Laptop,Electronics,Coimbatore,Online,3,46486,139458,88093.89,51364.11,Net Banking,CUST102
+ORD0087,2025-03-02,March,3,Q1,Keyboard,Electronics,Bengaluru,Store,5,1955,9775,8090.86,1684.14,Cash,CUST060
+ORD0088,2025-03-02,March,3,Q1,Keyboard,Electronics,Chennai,Store,1,1325,1325,896.08,428.92,Credit Card,CUST129
+ORD0089,2025-03-02,March,3,Q1,Headphones,Electronics,Tiruppur,Store,7,816,5712,4469.92,1242.08,UPI,CUST114
+ORD0090,2025-03-02,March,3,Q1,Tablet,Electronics,Coimbatore,Online,7,25497,178479,139425.49,39053.51,Debit Card,CUST128
+ORD0091,2025-03-04,March,3,Q1,Headphones,Electronics,Hyderabad,Store,6,2088,12528,8666.2,3861.8,Debit Card,CUST068
+ORD0092,2025-03-05,March,3,Q1,Tablet,Electronics,Hyderabad,Online,2,16718,33436,27844.63,5591.37,Cash,CUST013
+ORD0093,2025-03-05,March,3,Q1,Smartwatch,Electronics,Bengaluru,Store,4,5748,22992,18710.51,4281.49,Net Banking,CUST096
+ORD0094,2025-03-06,March,3,Q1,Tablet,Electronics,Chennai,Store,3,26630,79890,52155.16,27734.84,UPI,CUST150
+ORD0095,2025-03-07,March,3,Q1,Keyboard,Electronics,Tiruppur,Online,6,1932,11592,8278.64,3313.36,Net Banking,CUST033
+ORD0096,2025-03-07,March,3,Q1,Headphones,Electronics,Chennai,Online,1,2073,2073,1467.04,605.96,Credit Card,CUST031
+ORD0097,2025-03-07,March,3,Q1,Headphones,Electronics,Tiruppur,Store,3,865,2595,2004.09,590.91,Credit Card,CUST068
+ORD0098,2025-03-08,March,3,Q1,Tablet,Electronics,Tiruppur,Store,7,28311,198177,158634.97,39542.03,Net Banking,CUST043
+ORD0099,2025-03-08,March,3,Q1,Tablet,Electronics,Coimbatore,Store,3,28455,85365,59591.79,25773.21,Net Banking,CUST046
+ORD0100,2025-03-10,March,3,Q1,Headphones,Electronics,Bengaluru,Store,6,4441,26646,20298.36,6347.64,UPI,CUST045
+ORD0101,2025-03-11,March,3,Q1,Keyboard,Electronics,Coimbatore,Online,3,1058,3174,2086.29,1087.71,Net Banking,CUST001
+ORD0102,2025-03-13,March,3,Q1,Mobile,Electronics,Tiruppur,Store,4,13394,53576,43400.52,10175.48,Cash,CUST066
+ORD0103,2025-03-13,March,3,Q1,Monitor,Electronics,Hyderabad,Online,7,12239,85673,66988.01,18684.99,Net Banking,CUST101
+ORD0104,2025-03-14,March,3,Q1,Monitor,Electronics,Chennai,Store,6,9937,59622,39615.42,20006.58,Credit Card,CUST016
+ORD0105,2025-03-14,March,3,Q1,Tablet,Electronics,Hyderabad,Store,3,24794,74382,55269.97,19112.03,Debit Card,CUST021
+ORD0106,2025-03-15,March,3,Q1,Laptop,Electronics,Coimbatore,Online,7,70327,492289,317388.88,174900.12,UPI,CUST037
+ORD0107,2025-03-15,March,3,Q1,Smartwatch,Electronics,Tiruppur,Store,7,3122,21854,16256.34,5597.66,Credit Card,CUST008
+ORD0108,2025-03-15,March,3,Q1,Laptop,Electronics,Bengaluru,Online,1,68004,68004,48437.96,19566.04,Net Banking,CUST105
+ORD0109,2025-03-20,March,3,Q1,Headphones,Electronics,Coimbatore,Online,7,1566,10962,7833.34,3128.66,Debit Card,CUST023
+ORD0110,2025-03-23,March,3,Q1,Laptop,Electronics,Chennai,Online,1,52830,52830,43693.76,9136.24,UPI,CUST077
+ORD0111,2025-03-24,March,3,Q1,Mobile,Electronics,Coimbatore,Store,1,23259,23259,16828.32,6430.68,Cash,CUST071
+ORD0112,2025-03-24,March,3,Q1,Keyboard,Electronics,Tiruppur,Online,2,1607,3214,2241.44,972.56,Net Banking,CUST072
+ORD0113,2025-03-25,March,3,Q1,Monitor,Electronics,Coimbatore,Online,3,14516,43548,30456.45,13091.55,Net Banking,CUST073
+ORD0114,2025-03-26,March,3,Q1,Laptop,Electronics,Chennai,Online,4,58359,233436,184595.1,48840.9,Cash,CUST008
+ORD0115,2025-03-26,March,3,Q1,Tablet,Electronics,Hyderabad,Store,1,17073,17073,10623.2,6449.8,UPI,CUST123
+ORD0116,2025-03-27,March,3,Q1,Laptop,Electronics,Tiruppur,Online,1,49146,49146,37785.21,11360.79,UPI,CUST086
+ORD0117,2025-03-28,March,3,Q1,Mobile,Electronics,Hyderabad,Online,5,25575,127875,79428.01,48446.99,Net Banking,CUST080
+ORD0118,2025-03-29,March,3,Q1,Smartwatch,Electronics,Hyderabad,Store,2,6849,13698,11033.81,2664.19,Credit Card,CUST039
+ORD0119,2025-03-29,March,3,Q1,Mobile,Electronics,Tiruppur,Store,4,33133,132532,101363.37,31168.63,Net Banking,CUST012
+ORD0120,2025-03-29,March,3,Q1,Tablet,Electronics,Tiruppur,Store,6,26012,156072,108691.0,47381.0,UPI,CUST091
+ORD0121,2025-03-31,March,3,Q1,Tablet,Electronics,Tiruppur,Store,4,18245,72980,50811.05,22168.95,UPI,CUST130
+ORD0122,2025-03-31,March,3,Q1,Laptop,Electronics,Bengaluru,Online,3,64869,194607,121545.34,73061.66,Cash,CUST109
+ORD0123,2025-04-02,April,4,Q2,Keyboard,Electronics,Bengaluru,Online,3,1946,5838,4063.93,1774.07,Net Banking,CUST023
+ORD0124,2025-04-04,April,4,Q2,Smartwatch,Electronics,Bengaluru,Store,1,4744,4744,3104.91,1639.09,UPI,CUST026
+ORD0125,2025-04-06,April,4,Q2,Keyboard,Electronics,Hyderabad,Store,1,1564,1564,971.18,592.82,UPI,CUST084
+ORD0126,2025-04-06,April,4,Q2,Monitor,Electronics,Tiruppur,Store,5,13356,66780,43437.61,23342.39,UPI,CUST133
+ORD0127,2025-04-07,April,4,Q2,Tablet,Electronics,Bengaluru,Store,2,23043,46086,31594.95,14491.05,UPI,CUST068
+ORD0128,2025-04-08,April,4,Q2,Smartwatch,Electronics,Hyderabad,Store,3,3754,11262,8776.13,2485.87,UPI,CUST003
+ORD0129,2025-04-08,April,4,Q2,Laptop,Electronics,Coimbatore,Store,2,61084,122168,101366.85,20801.15,Credit Card,CUST093
+ORD0130,2025-04-10,April,4,Q2,Smartwatch,Electronics,Bengaluru,Store,4,4260,17040,12184.96,4855.04,Debit Card,CUST109
+ORD0131,2025-04-11,April,4,Q2,Keyboard,Electronics,Bengaluru,Online,2,1677,3354,2871.09,482.91,Debit Card,CUST139
+ORD0132,2025-04-11,April,4,Q2,Headphones,Electronics,Coimbatore,Store,1,4288,4288,3477.77,810.23,Debit Card,CUST062
+ORD0133,2025-04-12,April,4,Q2,Monitor,Electronics,Hyderabad,Online,6,8034,48204,34456.3,13747.7,Cash,CUST071
+ORD0134,2025-04-12,April,4,Q2,Mobile,Electronics,Bengaluru,Online,7,20272,141904,94057.66,47846.34,Net Banking,CUST129
+ORD0135,2025-04-12,April,4,Q2,Monitor,Electronics,Coimbatore,Store,2,17039,34078,24970.73,9107.27,Cash,CUST097
+ORD0136,2025-04-13,April,4,Q2,Monitor,Electronics,Chennai,Store,3,14105,42315,31485.94,10829.06,Cash,CUST110
+ORD0137,2025-04-13,April,4,Q2,Headphones,Electronics,Tiruppur,Store,7,3697,25879,16694.74,9184.26,Net Banking,CUST105
+ORD0138,2025-04-13,April,4,Q2,Monitor,Electronics,Chennai,Online,6,16474,98844,63652.27,35191.73,Debit Card,CUST112
+ORD0139,2025-04-14,April,4,Q2,Headphones,Electronics,Hyderabad,Store,2,885,1770,1257.61,512.39,Cash,CUST140
+ORD0140,2025-04-15,April,4,Q2,Monitor,Electronics,Coimbatore,Store,3,13916,41748,29081.31,12666.69,Debit Card,CUST088
+ORD0141,2025-04-16,April,4,Q2,Tablet,Electronics,Bengaluru,Store,1,21137,21137,17850.02,3286.98,Debit Card,CUST011
+ORD0142,2025-04-16,April,4,Q2,Mobile,Electronics,Bengaluru,Online,3,19775,59325,42392.8,16932.2,Credit Card,CUST025
+ORD0143,2025-04-16,April,4,Q2,Tablet,Electronics,Coimbatore,Store,1,25269,25269,21457.82,3811.18,Credit Card,CUST030
+ORD0144,2025-04-17,April,4,Q2,Laptop,Electronics,Coimbatore,Online,6,57768,346608,288186.75,58421.25,Debit Card,CUST031
+ORD0145,2025-04-18,April,4,Q2,Monitor,Electronics,Tiruppur,Online,4,9043,36172,26493.1,9678.9,Credit Card,CUST020
+ORD0146,2025-04-18,April,4,Q2,Laptop,Electronics,Coimbatore,Store,4,45231,180924,153828.78,27095.22,Cash,CUST075
+ORD0147,2025-04-19,April,4,Q2,Monitor,Electronics,Coimbatore,Online,2,8217,16434,11351.72,5082.28,Cash,CUST046
+ORD0148,2025-04-20,April,4,Q2,Monitor,Electronics,Bengaluru,Store,7,15500,108500,92908.17,15591.83,Credit Card,CUST143
+ORD0149,2025-04-20,April,4,Q2,Smartwatch,Electronics,Chennai,Online,3,3182,9546,6616.06,2929.94,Debit Card,CUST064
+ORD0150,2025-04-20,April,4,Q2,Laptop,Electronics,Tiruppur,Store,6,67046,402276,308956.61,93319.39,Debit Card,CUST025
+ORD0151,2025-04-21,April,4,Q2,Laptop,Electronics,Chennai,Online,4,51838,207352,170954.25,36397.75,Debit Card,CUST079
+ORD0152,2025-04-21,April,4,Q2,Keyboard,Electronics,Hyderabad,Online,3,2006,6018,4267.37,1750.63,UPI,CUST115
+ORD0153,2025-04-21,April,4,Q2,Laptop,Electronics,Coimbatore,Online,1,65854,65854,55710.46,10143.54,UPI,CUST035
+ORD0154,2025-04-22,April,4,Q2,Monitor,Electronics,Chennai,Store,1,14994,14994,10248.24,4745.76,Cash,CUST027
+ORD0155,2025-04-23,April,4,Q2,Smartwatch,Electronics,Tiruppur,Store,1,6429,6429,4364.4,2064.6,Cash,CUST021
+ORD0156,2025-04-24,April,4,Q2,Keyboard,Electronics,Tiruppur,Store,7,1691,11837,8302.91,3534.09,Cash,CUST038
+ORD0157,2025-04-24,April,4,Q2,Tablet,Electronics,Chennai,Online,3,18672,56016,47367.39,8648.61,Net Banking,CUST001
+ORD0158,2025-04-25,April,4,Q2,Keyboard,Electronics,Tiruppur,Store,4,1224,4896,3612.0,1284.0,Credit Card,CUST081
+ORD0159,2025-04-25,April,4,Q2,Keyboard,Electronics,Chennai,Online,3,1426,4278,2781.38,1496.62,Net Banking,CUST014
+ORD0160,2025-04-26,April,4,Q2,Headphones,Electronics,Coimbatore,Store,7,3887,27209,17937.76,9271.24,Net Banking,CUST032
+ORD0161,2025-04-26,April,4,Q2,Mobile,Electronics,Chennai,Online,7,17823,124761,80913.6,43847.4,Net Banking,CUST001
+ORD0162,2025-04-26,April,4,Q2,Tablet,Electronics,Hyderabad,Online,5,28732,143660,105102.14,38557.86,Debit Card,CUST080
+ORD0163,2025-04-27,April,4,Q2,Smartwatch,Electronics,Hyderabad,Store,6,4278,25668,20955.2,4712.8,Cash,CUST056
+ORD0164,2025-04-28,April,4,Q2,Headphones,Electronics,Bengaluru,Online,2,3905,7810,6567.9,1242.1,Debit Card,CUST008
+ORD0165,2025-04-28,April,4,Q2,Monitor,Electronics,Bengaluru,Online,1,10766,10766,8283.9,2482.1,Cash,CUST096
+ORD0166,2025-04-29,April,4,Q2,Keyboard,Electronics,Tiruppur,Online,2,2172,4344,3656.38,687.62,Credit Card,CUST096
+ORD0167,2025-05-01,May,5,Q2,Keyboard,Electronics,Hyderabad,Store,4,604,2416,1660.79,755.21,UPI,CUST060
+ORD0168,2025-05-01,May,5,Q2,Headphones,Electronics,Bengaluru,Store,1,3752,3752,2463.41,1288.59,Debit Card,CUST059
+ORD0169,2025-05-02,May,5,Q2,Mobile,Electronics,Coimbatore,Store,5,33203,166015,131862.93,34152.07,Debit Card,CUST046
+ORD0170,2025-05-02,May,5,Q2,Smartwatch,Electronics,Bengaluru,Store,5,8753,43765,32100.23,11664.77,Debit Card,CUST052
+ORD0171,2025-05-03,May,5,Q2,Headphones,Electronics,Bengaluru,Store,1,1455,1455,1197.53,257.47,UPI,CUST149
+ORD0172,2025-05-03,May,5,Q2,Headphones,Electronics,Coimbatore,Store,7,1872,13104,10482.0,2622.0,Debit Card,CUST080
+ORD0173,2025-05-04,May,5,Q2,Keyboard,Electronics,Coimbatore,Store,2,1854,3708,3142.19,565.81,Credit Card,CUST111
+ORD0174,2025-05-06,May,5,Q2,Keyboard,Electronics,Chennai,Store,3,1349,4047,3054.82,992.18,Debit Card,CUST077
+ORD0175,2025-05-07,May,5,Q2,Keyboard,Electronics,Tiruppur,Online,3,2324,6972,5405.37,1566.63,Credit Card,CUST105
+ORD0176,2025-05-07,May,5,Q2,Tablet,Electronics,Hyderabad,Online,4,21965,87860,57126.02,30733.98,Credit Card,CUST101
+ORD0177,2025-05-10,May,5,Q2,Laptop,Electronics,Bengaluru,Store,6,62699,376194,235024.92,141169.08,Credit Card,CUST121
+ORD0178,2025-05-13,May,5,Q2,Mobile,Electronics,Bengaluru,Online,6,15735,94410,78034.71,16375.29,Net Banking,CUST101
+ORD0179,2025-05-13,May,5,Q2,Mobile,Electronics,Coimbatore,Online,7,14975,104825,68479.77,36345.23,Credit Card,CUST043
+ORD0180,2025-05-13,May,5,Q2,Smartwatch,Electronics,Hyderabad,Store,7,11187,78309,52357.82,25951.18,Debit Card,CUST106
+ORD0181,2025-05-14,May,5,Q2,Keyboard,Electronics,Bengaluru,Online,5,2411,12055,8212.18,3842.82,Cash,CUST010
+ORD0182,2025-05-14,May,5,Q2,Tablet,Electronics,Tiruppur,Store,7,25770,180390,129145.22,51244.78,Debit Card,CUST004
+ORD0183,2025-05-15,May,5,Q2,Headphones,Electronics,Hyderabad,Online,5,2280,11400,8737.58,2662.42,Debit Card,CUST027
+ORD0184,2025-05-16,May,5,Q2,Monitor,Electronics,Hyderabad,Store,6,16321,97926,68286.91,29639.09,Cash,CUST074
+ORD0185,2025-05-16,May,5,Q2,Headphones,Electronics,Coimbatore,Online,6,3139,18834,12780.93,6053.07,Net Banking,CUST144
+ORD0186,2025-05-16,May,5,Q2,Monitor,Electronics,Chennai,Store,6,10476,62856,53727.36,9128.64,Net Banking,CUST115
+ORD0187,2025-05-17,May,5,Q2,Mobile,Electronics,Tiruppur,Store,1,29540,29540,21550.86,7989.14,Credit Card,CUST091
+ORD0188,2025-05-17,May,5,Q2,Smartwatch,Electronics,Tiruppur,Store,3,8521,25563,17430.75,8132.25,Credit Card,CUST062
+ORD0189,2025-05-19,May,5,Q2,Tablet,Electronics,Hyderabad,Store,5,18283,91415,75557.86,15857.14,UPI,CUST055
+ORD0190,2025-05-20,May,5,Q2,Laptop,Electronics,Chennai,Store,3,46057,138171,112112.31,26058.69,Credit Card,CUST021
+ORD0191,2025-05-22,May,5,Q2,Smartwatch,Electronics,Chennai,Online,5,9856,49280,35166.95,14113.05,Net Banking,CUST043
+ORD0192,2025-05-26,May,5,Q2,Mobile,Electronics,Tiruppur,Store,2,33756,67512,48708.02,18803.98,Net Banking,CUST140
+ORD0193,2025-05-27,May,5,Q2,Tablet,Electronics,Chennai,Store,5,29713,148565,97030.68,51534.32,Cash,CUST038
+ORD0194,2025-05-29,May,5,Q2,Mobile,Electronics,Tiruppur,Online,7,22952,160664,125194.01,35469.99,Cash,CUST125
+ORD0195,2025-05-30,May,5,Q2,Smartwatch,Electronics,Tiruppur,Online,2,4175,8350,6283.58,2066.42,Debit Card,CUST045
+ORD0196,2025-05-30,May,5,Q2,Smartwatch,Electronics,Chennai,Store,5,10067,50335,43191.96,7143.04,UPI,CUST078
+ORD0197,2025-05-30,May,5,Q2,Laptop,Electronics,Bengaluru,Online,5,47570,237850,203218.89,34631.11,Credit Card,CUST045
+ORD0198,2025-05-30,May,5,Q2,Headphones,Electronics,Coimbatore,Store,3,1458,4374,2765.86,1608.14,Cash,CUST054
+ORD0199,2025-05-31,May,5,Q2,Tablet,Electronics,Hyderabad,Store,5,26812,134060,109539.81,24520.19,Debit Card,CUST060
+ORD0200,2025-06-01,June,6,Q2,Tablet,Electronics,Chennai,Online,6,18528,111168,90305.49,20862.51,Credit Card,CUST134
+ORD0201,2025-06-02,June,6,Q2,Mobile,Electronics,Hyderabad,Online,4,15310,61240,39381.17,21858.83,UPI,CUST047
+ORD0202,2025-06-02,June,6,Q2,Headphones,Electronics,Coimbatore,Online,1,1838,1838,1162.85,675.15,UPI,CUST066
+ORD0203,2025-06-02,June,6,Q2,Keyboard,Electronics,Chennai,Store,1,2072,2072,1608.99,463.01,Net Banking,CUST052
+ORD0204,2025-06-02,June,6,Q2,Mobile,Electronics,Coimbatore,Store,2,12606,25212,20840.04,4371.96,Debit Card,CUST081
+ORD0205,2025-06-05,June,6,Q2,Headphones,Electronics,Chennai,Store,1,3831,3831,2737.92,1093.08,Cash,CUST089
+ORD0206,2025-06-07,June,6,Q2,Mobile,Electronics,Tiruppur,Store,6,19528,117168,86821.82,30346.18,Cash,CUST070
+ORD0207,2025-06-07,June,6,Q2,Tablet,Electronics,Coimbatore,Store,3,20518,61554,41241.86,20312.14,Cash,CUST145
+ORD0208,2025-06-08,June,6,Q2,Laptop,Electronics,Chennai,Online,1,65513,65513,43389.91,22123.09,UPI,CUST124
+ORD0209,2025-06-08,June,6,Q2,Laptop,Electronics,Hyderabad,Store,5,55760,278800,182037.08,96762.92,Cash,CUST027
+ORD0210,2025-06-08,June,6,Q2,Headphones,Electronics,Hyderabad,Store,3,4197,12591,10450.78,2140.22,Net Banking,CUST131
+ORD0211,2025-06-08,June,6,Q2,Headphones,Electronics,Coimbatore,Store,5,1511,7555,5873.69,1681.31,Credit Card,CUST038
+ORD0212,2025-06-08,June,6,Q2,Keyboard,Electronics,Coimbatore,Store,4,612,2448,1841.43,606.57,Credit Card,CUST107
+ORD0213,2025-06-08,June,6,Q2,Headphones,Electronics,Chennai,Online,4,898,3592,2745.63,846.37,Debit Card,CUST093
+ORD0214,2025-06-09,June,6,Q2,Mobile,Electronics,Chennai,Store,3,18633,55899,44825.32,11073.68,Credit Card,CUST085
+ORD0215,2025-06-09,June,6,Q2,Mobile,Electronics,Coimbatore,Online,6,20863,125178,93290.21,31887.79,Credit Card,CUST068
+ORD0216,2025-06-10,June,6,Q2,Headphones,Electronics,Coimbatore,Online,5,3166,15830,10065.65,5764.35,UPI,CUST032
+ORD0217,2025-06-10,June,6,Q2,Smartwatch,Electronics,Bengaluru,Store,6,10998,65988,43635.92,22352.08,Net Banking,CUST015
+ORD0218,2025-06-10,June,6,Q2,Headphones,Electronics,Tiruppur,Online,4,3871,15484,13076.7,2407.3,Credit Card,CUST033
+ORD0219,2025-06-11,June,6,Q2,Headphones,Electronics,Chennai,Online,4,2967,11868,9293.67,2574.33,Credit Card,CUST134
+ORD0220,2025-06-11,June,6,Q2,Laptop,Electronics,Tiruppur,Online,2,56198,112396,81088.79,31307.21,UPI,CUST021
+ORD0221,2025-06-12,June,6,Q2,Smartwatch,Electronics,Coimbatore,Online,2,10673,21346,15082.7,6263.3,UPI,CUST079
+ORD0222,2025-06-12,June,6,Q2,Tablet,Electronics,Tiruppur,Online,2,20134,40268,30866.08,9401.92,Net Banking,CUST134
+ORD0223,2025-06-13,June,6,Q2,Laptop,Electronics,Chennai,Online,5,70101,350505,226347.97,124157.03,UPI,CUST069
+ORD0224,2025-06-13,June,6,Q2,Smartwatch,Electronics,Hyderabad,Store,1,6369,6369,5251.7,1117.3,UPI,CUST123
+ORD0225,2025-06-14,June,6,Q2,Smartwatch,Electronics,Hyderabad,Online,2,7498,14996,9456.51,5539.49,Debit Card,CUST010
+ORD0226,2025-06-14,June,6,Q2,Tablet,Electronics,Hyderabad,Store,7,22026,154182,116938.82,37243.18,Net Banking,CUST026
+ORD0227,2025-06-14,June,6,Q2,Keyboard,Electronics,Tiruppur,Online,3,2460,7380,5449.99,1930.01,Net Banking,CUST144
+ORD0228,2025-06-16,June,6,Q2,Tablet,Electronics,Tiruppur,Online,3,27080,81240,61770.07,19469.93,Cash,CUST049
+ORD0229,2025-06-16,June,6,Q2,Mobile,Electronics,Chennai,Online,7,16443,115101,95289.21,19811.79,Debit Card,CUST087
+ORD0230,2025-06-17,June,6,Q2,Tablet,Electronics,Hyderabad,Store,3,25001,75003,54269.51,20733.49,Credit Card,CUST140
+ORD0231,2025-06-17,June,6,Q2,Keyboard,Electronics,Coimbatore,Online,6,2373,14238,9952.69,4285.31,Debit Card,CUST146
+ORD0232,2025-06-18,June,6,Q2,Headphones,Electronics,Coimbatore,Store,4,2220,8880,6909.54,1970.46,Credit Card,CUST049
+ORD0233,2025-06-18,June,6,Q2,Monitor,Electronics,Coimbatore,Online,1,10803,10803,6943.23,3859.77,UPI,CUST076
+ORD0234,2025-06-18,June,6,Q2,Keyboard,Electronics,Bengaluru,Store,3,2441,7323,4917.32,2405.68,Cash,CUST114
+ORD0235,2025-06-19,June,6,Q2,Headphones,Electronics,Hyderabad,Online,4,1752,7008,5904.95,1103.05,Debit Card,CUST016
+ORD0236,2025-06-20,June,6,Q2,Smartwatch,Electronics,Hyderabad,Online,1,11928,11928,10102.12,1825.88,UPI,CUST139
+ORD0237,2025-06-20,June,6,Q2,Monitor,Electronics,Chennai,Store,7,13369,93583,58887.11,34695.89,Cash,CUST138
+ORD0238,2025-06-20,June,6,Q2,Headphones,Electronics,Chennai,Store,1,1108,1108,884.66,223.34,Credit Card,CUST075
+ORD0239,2025-06-21,June,6,Q2,Mobile,Electronics,Chennai,Store,4,22712,90848,73477.49,17370.51,Credit Card,CUST133
+ORD0240,2025-06-21,June,6,Q2,Monitor,Electronics,Chennai,Online,3,17873,53619,40515.52,13103.48,Cash,CUST025
+ORD0241,2025-06-21,June,6,Q2,Headphones,Electronics,Tiruppur,Online,2,3667,7334,5491.38,1842.62,Net Banking,CUST012
+ORD0242,2025-06-22,June,6,Q2,Monitor,Electronics,Hyderabad,Store,6,15711,94266,62689.36,31576.64,Net Banking,CUST132
+ORD0243,2025-06-22,June,6,Q2,Smartwatch,Electronics,Chennai,Store,1,6057,6057,4934.22,1122.78,Debit Card,CUST037
+ORD0244,2025-06-23,June,6,Q2,Headphones,Electronics,Hyderabad,Online,7,3161,22127,16943.32,5183.68,Net Banking,CUST056
+ORD0245,2025-06-26,June,6,Q2,Laptop,Electronics,Chennai,Online,1,56276,56276,45625.21,10650.79,Net Banking,CUST011
+ORD0246,2025-06-27,June,6,Q2,Mobile,Electronics,Chennai,Online,3,28241,84723,70306.55,14416.45,Net Banking,CUST079
+ORD0247,2025-06-28,June,6,Q2,Headphones,Electronics,Bengaluru,Store,4,2516,10064,6634.33,3429.67,Cash,CUST018
+ORD0248,2025-06-29,June,6,Q2,Tablet,Electronics,Tiruppur,Online,5,26858,134290,84552.05,49737.95,Net Banking,CUST079
+ORD0249,2025-06-29,June,6,Q2,Monitor,Electronics,Chennai,Online,4,9357,37428,24898.37,12529.63,Credit Card,CUST028
+ORD0250,2025-06-30,June,6,Q2,Laptop,Electronics,Coimbatore,Store,7,58825,411775,295324.44,116450.56,Debit Card,CUST147
+ORD0251,2025-06-30,June,6,Q2,Mobile,Electronics,Bengaluru,Store,5,13856,69280,57442.69,11837.31,Cash,CUST054
+ORD0252,2025-06-30,June,6,Q2,Headphones,Electronics,Coimbatore,Store,4,1294,5176,3253.72,1922.28,Credit Card,CUST150
+ORD0253,2025-07-01,July,7,Q3,Headphones,Electronics,Chennai,Store,5,4348,21740,17161.37,4578.63,Credit Card,CUST079
+ORD0254,2025-07-01,July,7,Q3,Monitor,Electronics,Bengaluru,Store,1,11276,11276,9523.82,1752.18,Net Banking,CUST018
+ORD0255,2025-07-02,July,7,Q3,Mobile,Electronics,Hyderabad,Store,1,13376,13376,8793.14,4582.86,Debit Card,CUST011
+ORD0256,2025-07-02,July,7,Q3,Monitor,Electronics,Bengaluru,Online,4,16584,66336,47452.53,18883.47,Net Banking,CUST010
+ORD0257,2025-07-02,July,7,Q3,Mobile,Electronics,Coimbatore,Store,3,34282,102846,68438.59,34407.41,Credit Card,CUST030
+ORD0258,2025-07-02,July,7,Q3,Monitor,Electronics,Chennai,Store,1,9199,9199,7618.18,1580.82,Debit Card,CUST125
+ORD0259,2025-07-02,July,7,Q3,Laptop,Electronics,Hyderabad,Store,5,71350,356750,301957.4,54792.6,UPI,CUST139
+ORD0260,2025-07-04,July,7,Q3,Keyboard,Electronics,Hyderabad,Store,4,1170,4680,3512.05,1167.95,Credit Card,CUST146
+ORD0261,2025-07-04,July,7,Q3,Headphones,Electronics,Tiruppur,Store,6,3408,20448,14917.57,5530.43,Credit Card,CUST042
+ORD0262,2025-07-04,July,7,Q3,Tablet,Electronics,Bengaluru,Online,3,17923,53769,34495.01,19273.99,Debit Card,CUST117
+ORD0263,2025-07-05,July,7,Q3,Keyboard,Electronics,Hyderabad,Online,2,1447,2894,2219.5,674.5,UPI,CUST048
+ORD0264,2025-07-07,July,7,Q3,Mobile,Electronics,Hyderabad,Online,2,31789,63578,54306.84,9271.16,Credit Card,CUST078
+ORD0265,2025-07-07,July,7,Q3,Smartwatch,Electronics,Hyderabad,Store,7,11394,79758,53974.35,25783.65,UPI,CUST054
+ORD0266,2025-07-09,July,7,Q3,Mobile,Electronics,Chennai,Store,1,33458,33458,22310.79,11147.21,Credit Card,CUST137
+ORD0267,2025-07-10,July,7,Q3,Mobile,Electronics,Bengaluru,Store,5,24356,121780,81403.61,40376.39,Net Banking,CUST130
+ORD0268,2025-07-10,July,7,Q3,Smartwatch,Electronics,Chennai,Online,7,8693,60851,51584.75,9266.25,UPI,CUST014
+ORD0269,2025-07-12,July,7,Q3,Headphones,Electronics,Tiruppur,Store,3,1636,4908,4156.91,751.09,Credit Card,CUST049
+ORD0270,2025-07-13,July,7,Q3,Keyboard,Electronics,Bengaluru,Online,4,835,3340,2217.34,1122.66,UPI,CUST098
+ORD0271,2025-07-14,July,7,Q3,Mobile,Electronics,Tiruppur,Store,2,27476,54952,37085.73,17866.27,Cash,CUST136
+ORD0272,2025-07-17,July,7,Q3,Mobile,Electronics,Hyderabad,Online,7,28448,199136,132444.73,66691.27,Debit Card,CUST075
+ORD0273,2025-07-18,July,7,Q3,Headphones,Electronics,Tiruppur,Online,1,2722,2722,1972.91,749.09,Net Banking,CUST015
+ORD0274,2025-07-18,July,7,Q3,Headphones,Electronics,Hyderabad,Online,4,2697,10788,7780.56,3007.44,Cash,CUST089
+ORD0275,2025-07-19,July,7,Q3,Mobile,Electronics,Bengaluru,Store,6,17243,103458,65406.15,38051.85,Net Banking,CUST003
+ORD0276,2025-07-19,July,7,Q3,Headphones,Electronics,Bengaluru,Online,7,2629,18403,13510.28,4892.72,Net Banking,CUST124
+ORD0277,2025-07-19,July,7,Q3,Keyboard,Electronics,Bengaluru,Online,6,1832,10992,7944.59,3047.41,Cash,CUST029
+ORD0278,2025-07-19,July,7,Q3,Keyboard,Electronics,Tiruppur,Store,5,2064,10320,7259.52,3060.48,Cash,CUST101
+ORD0279,2025-07-22,July,7,Q3,Monitor,Electronics,Coimbatore,Store,5,17567,87835,63418.59,24416.41,Net Banking,CUST056
+ORD0280,2025-07-22,July,7,Q3,Headphones,Electronics,Tiruppur,Online,6,968,5808,4241.76,1566.24,Debit Card,CUST112
+ORD0281,2025-07-22,July,7,Q3,Tablet,Electronics,Chennai,Online,3,16967,50901,39216.06,11684.94,Cash,CUST034
+ORD0282,2025-07-22,July,7,Q3,Monitor,Electronics,Chennai,Store,2,15057,30114,19470.92,10643.08,Net Banking,CUST024
+ORD0283,2025-07-22,July,7,Q3,Mobile,Electronics,Coimbatore,Online,3,16546,49638,37082.26,12555.74,Net Banking,CUST110
+ORD0284,2025-07-22,July,7,Q3,Keyboard,Electronics,Bengaluru,Online,5,922,4610,3052.02,1557.98,Cash,CUST072
+ORD0285,2025-07-23,July,7,Q3,Keyboard,Electronics,Coimbatore,Online,3,880,2640,1832.16,807.84,UPI,CUST107
+ORD0286,2025-07-24,July,7,Q3,Headphones,Electronics,Tiruppur,Online,5,3869,19345,12318.58,7026.42,Credit Card,CUST118
+ORD0287,2025-07-26,July,7,Q3,Smartwatch,Electronics,Hyderabad,Online,1,9606,9606,6989.11,2616.89,Net Banking,CUST042
+ORD0288,2025-07-26,July,7,Q3,Mobile,Electronics,Coimbatore,Online,3,19811,59433,39363.98,20069.02,Credit Card,CUST059
+ORD0289,2025-07-26,July,7,Q3,Keyboard,Electronics,Bengaluru,Online,7,1058,7406,5149.56,2256.44,Credit Card,CUST055
+ORD0290,2025-07-27,July,7,Q3,Laptop,Electronics,Hyderabad,Online,4,45389,181556,125765.93,55790.07,Net Banking,CUST036
+ORD0291,2025-07-27,July,7,Q3,Headphones,Electronics,Hyderabad,Store,1,3624,3624,2679.96,944.04,Cash,CUST004
+ORD0292,2025-07-28,July,7,Q3,Monitor,Electronics,Tiruppur,Store,7,13860,97020,74438.01,22581.99,Net Banking,CUST137
+ORD0293,2025-07-29,July,7,Q3,Headphones,Electronics,Tiruppur,Store,3,3729,11187,7153.83,4033.17,UPI,CUST088
+ORD0294,2025-07-31,July,7,Q3,Headphones,Electronics,Tiruppur,Store,4,2534,10136,7275.29,2860.71,Cash,CUST083
+ORD0295,2025-08-01,August,8,Q3,Smartwatch,Electronics,Chennai,Online,7,10448,73136,49296.78,23839.22,Cash,CUST011
+ORD0296,2025-08-01,August,8,Q3,Keyboard,Electronics,Chennai,Store,7,2064,14448,11984.6,2463.4,UPI,CUST048
+ORD0297,2025-08-02,August,8,Q3,Laptop,Electronics,Coimbatore,Store,6,55845,335070,256500.06,78569.94,Net Banking,CUST065
+ORD0298,2025-08-03,August,8,Q3,Tablet,Electronics,Coimbatore,Online,4,29919,119676,82709.51,36966.49,Credit Card,CUST030
+ORD0299,2025-08-04,August,8,Q3,Keyboard,Electronics,Hyderabad,Online,5,710,3550,2544.25,1005.75,Net Banking,CUST001
+ORD0300,2025-08-06,August,8,Q3,Smartwatch,Electronics,Coimbatore,Store,2,8874,17748,11751.14,5996.86,Net Banking,CUST040
+ORD0301,2025-08-06,August,8,Q3,Monitor,Electronics,Chennai,Store,6,17047,102282,80051.01,22230.99,Net Banking,CUST064
+ORD0302,2025-08-07,August,8,Q3,Mobile,Electronics,Tiruppur,Online,2,34088,68176,58050.81,10125.19,UPI,CUST065
+ORD0303,2025-08-09,August,8,Q3,Monitor,Electronics,Coimbatore,Store,5,11758,58790,47395.9,11394.1,Cash,CUST087
+ORD0304,2025-08-09,August,8,Q3,Tablet,Electronics,Bengaluru,Online,6,26068,156408,104971.35,51436.65,Debit Card,CUST086
+ORD0305,2025-08-10,August,8,Q3,Tablet,Electronics,Chennai,Store,7,29912,209384,140270.43,69113.57,Debit Card,CUST110
+ORD0306,2025-08-10,August,8,Q3,Keyboard,Electronics,Coimbatore,Store,1,2059,2059,1471.89,587.11,UPI,CUST056
+ORD0307,2025-08-12,August,8,Q3,Mobile,Electronics,Chennai,Online,2,16343,32686,23482.01,9203.99,Debit Card,CUST112
+ORD0308,2025-08-13,August,8,Q3,Monitor,Electronics,Chennai,Store,5,12791,63955,50249.22,13705.78,UPI,CUST062
+ORD0309,2025-08-15,August,8,Q3,Smartwatch,Electronics,Hyderabad,Store,2,6332,12664,8598.98,4065.02,Cash,CUST014
+ORD0310,2025-08-17,August,8,Q3,Keyboard,Electronics,Chennai,Online,1,2443,2443,1789.19,653.81,UPI,CUST028
+ORD0311,2025-08-18,August,8,Q3,Tablet,Electronics,Coimbatore,Online,2,21957,43914,35616.65,8297.35,Net Banking,CUST081
+ORD0312,2025-08-18,August,8,Q3,Keyboard,Electronics,Chennai,Online,2,1809,3618,2481.2,1136.8,Credit Card,CUST021
+ORD0313,2025-08-19,August,8,Q3,Laptop,Electronics,Tiruppur,Online,4,70483,281932,190001.16,91930.84,Net Banking,CUST095
+ORD0314,2025-08-19,August,8,Q3,Tablet,Electronics,Bengaluru,Store,1,18837,18837,12411.06,6425.94,Debit Card,CUST118
+ORD0315,2025-08-20,August,8,Q3,Mobile,Electronics,Hyderabad,Online,3,16851,50553,41667.77,8885.23,Net Banking,CUST011
+ORD0316,2025-08-20,August,8,Q3,Mobile,Electronics,Tiruppur,Online,1,24030,24030,19901.21,4128.79,UPI,CUST093
+ORD0317,2025-08-20,August,8,Q3,Headphones,Electronics,Chennai,Online,5,3612,18060,14581.67,3478.33,Net Banking,CUST016
+ORD0318,2025-08-20,August,8,Q3,Keyboard,Electronics,Chennai,Store,4,2453,9812,8147.91,1664.09,Net Banking,CUST112
+ORD0319,2025-08-21,August,8,Q3,Laptop,Electronics,Bengaluru,Online,2,67154,134308,92549.65,41758.35,UPI,CUST149
+ORD0320,2025-08-24,August,8,Q3,Mobile,Electronics,Tiruppur,Store,4,19099,76396,56629.79,19766.21,Net Banking,CUST060
+ORD0321,2025-08-26,August,8,Q3,Keyboard,Electronics,Hyderabad,Store,7,2095,14665,9960.67,4704.33,Cash,CUST044
+ORD0322,2025-08-27,August,8,Q3,Smartwatch,Electronics,Coimbatore,Store,4,4903,19612,13046.83,6565.17,Debit Card,CUST145
+ORD0323,2025-08-27,August,8,Q3,Laptop,Electronics,Hyderabad,Online,6,64490,386940,331299.76,55640.24,Credit Card,CUST054
+ORD0324,2025-08-29,August,8,Q3,Smartwatch,Electronics,Coimbatore,Online,4,8763,35052,30032.23,5019.77,Debit Card,CUST062
+ORD0325,2025-08-30,August,8,Q3,Smartwatch,Electronics,Coimbatore,Store,1,10818,10818,8752.52,2065.48,Credit Card,CUST092
+ORD0326,2025-08-30,August,8,Q3,Monitor,Electronics,Coimbatore,Store,7,12281,85967,59516.41,26450.59,Credit Card,CUST051
+ORD0327,2025-08-30,August,8,Q3,Mobile,Electronics,Bengaluru,Store,3,25946,77838,63757.33,14080.67,UPI,CUST069
+ORD0328,2025-08-30,August,8,Q3,Mobile,Electronics,Bengaluru,Online,5,33111,165555,125034.68,40520.32,Debit Card,CUST009
+ORD0329,2025-08-31,August,8,Q3,Headphones,Electronics,Hyderabad,Store,6,2088,12528,7860.25,4667.75,Credit Card,CUST063
+ORD0330,2025-08-31,August,8,Q3,Monitor,Electronics,Tiruppur,Online,1,16541,16541,13231.63,3309.37,Debit Card,CUST130
+ORD0331,2025-08-31,August,8,Q3,Mobile,Electronics,Hyderabad,Store,6,29160,174960,117541.97,57418.03,Debit Card,CUST062
+ORD0332,2025-08-31,August,8,Q3,Keyboard,Electronics,Tiruppur,Online,2,2118,4236,2860.91,1375.09,Credit Card,CUST144
+ORD0333,2025-09-01,September,9,Q3,Headphones,Electronics,Bengaluru,Store,1,3427,3427,2736.66,690.34,Debit Card,CUST016
+ORD0334,2025-09-01,September,9,Q3,Headphones,Electronics,Coimbatore,Online,4,1255,5020,3884.0,1136.0,UPI,CUST134
+ORD0335,2025-09-02,September,9,Q3,Keyboard,Electronics,Coimbatore,Online,1,2143,2143,1626.25,516.75,UPI,CUST040
+ORD0336,2025-09-02,September,9,Q3,Monitor,Electronics,Hyderabad,Online,7,8865,62055,52204.1,9850.9,Net Banking,CUST026
+ORD0337,2025-09-03,September,9,Q3,Tablet,Electronics,Chennai,Online,1,18176,18176,11793.07,6382.93,UPI,CUST010
+ORD0338,2025-09-05,September,9,Q3,Monitor,Electronics,Tiruppur,Store,1,7964,7964,5191.02,2772.98,Cash,CUST088
+ORD0339,2025-09-05,September,9,Q3,Laptop,Electronics,Bengaluru,Online,1,65910,65910,54818.8,11091.2,Cash,CUST066
+ORD0340,2025-09-05,September,9,Q3,Headphones,Electronics,Bengaluru,Online,5,4274,21370,15543.99,5826.01,UPI,CUST071
+ORD0341,2025-09-07,September,9,Q3,Laptop,Electronics,Bengaluru,Online,3,49582,148746,101529.39,47216.61,UPI,CUST114
+ORD0342,2025-09-07,September,9,Q3,Mobile,Electronics,Hyderabad,Store,6,30389,182334,127496.74,54837.26,Cash,CUST129
+ORD0343,2025-09-07,September,9,Q3,Monitor,Electronics,Bengaluru,Store,7,7855,54985,38150.78,16834.22,Credit Card,CUST068
+ORD0344,2025-09-08,September,9,Q3,Smartwatch,Electronics,Hyderabad,Store,7,8680,60760,41973.29,18786.71,Credit Card,CUST044
+ORD0345,2025-09-11,September,9,Q3,Tablet,Electronics,Bengaluru,Online,2,23314,46628,35739.45,10888.55,Cash,CUST139
+ORD0346,2025-09-12,September,9,Q3,Laptop,Electronics,Tiruppur,Store,5,53841,269205,210502.18,58702.82,Cash,CUST012
+ORD0347,2025-09-12,September,9,Q3,Keyboard,Electronics,Tiruppur,Store,1,1449,1449,928.53,520.47,Credit Card,CUST050
+ORD0348,2025-09-12,September,9,Q3,Headphones,Electronics,Hyderabad,Store,6,3881,23286,15762.17,7523.83,Debit Card,CUST082
+ORD0349,2025-09-13,September,9,Q3,Laptop,Electronics,Tiruppur,Online,7,65532,458724,339367.05,119356.95,Cash,CUST109
+ORD0350,2025-09-13,September,9,Q3,Monitor,Electronics,Bengaluru,Store,4,17228,68912,51468.84,17443.16,Net Banking,CUST111
+ORD0351,2025-09-13,September,9,Q3,Laptop,Electronics,Tiruppur,Store,3,46940,140820,103584.65,37235.35,Net Banking,CUST051
+ORD0352,2025-09-14,September,9,Q3,Headphones,Electronics,Tiruppur,Online,4,2862,11448,9741.42,1706.58,Debit Card,CUST028
+ORD0353,2025-09-15,September,9,Q3,Tablet,Electronics,Chennai,Store,2,18253,36506,22638.7,13867.3,Debit Card,CUST055
+ORD0354,2025-09-19,September,9,Q3,Keyboard,Electronics,Coimbatore,Store,6,1624,9744,6116.46,3627.54,Net Banking,CUST024
+ORD0355,2025-09-19,September,9,Q3,Laptop,Electronics,Chennai,Online,7,70410,492870,379703.8,113166.2,Credit Card,CUST060
+ORD0356,2025-09-19,September,9,Q3,Smartwatch,Electronics,Chennai,Online,3,5426,16278,13060.07,3217.93,Credit Card,CUST136
+ORD0357,2025-09-19,September,9,Q3,Monitor,Electronics,Bengaluru,Online,2,12502,25004,20601.68,4402.32,Net Banking,CUST122
+ORD0358,2025-09-20,September,9,Q3,Mobile,Electronics,Bengaluru,Online,3,28688,86064,58532.47,27531.53,Cash,CUST088
+ORD0359,2025-09-20,September,9,Q3,Keyboard,Electronics,Hyderabad,Online,1,2488,2488,1857.11,630.89,Cash,CUST109
+ORD0360,2025-09-21,September,9,Q3,Monitor,Electronics,Coimbatore,Store,7,11422,79954,53483.35,26470.65,Cash,CUST125
+ORD0361,2025-09-21,September,9,Q3,Mobile,Electronics,Tiruppur,Online,7,18973,132811,113759.14,19051.86,Net Banking,CUST138
+ORD0362,2025-09-22,September,9,Q3,Monitor,Electronics,Chennai,Online,6,13400,80400,55041.14,25358.86,Cash,CUST083
+ORD0363,2025-09-23,September,9,Q3,Laptop,Electronics,Tiruppur,Online,2,60141,120282,92954.03,27327.97,Debit Card,CUST102
+ORD0364,2025-09-24,September,9,Q3,Keyboard,Electronics,Tiruppur,Online,3,2135,6405,4479.42,1925.58,Debit Card,CUST029
+ORD0365,2025-09-26,September,9,Q3,Headphones,Electronics,Tiruppur,Online,7,3947,27629,18640.96,8988.04,Cash,CUST148
+ORD0366,2025-09-26,September,9,Q3,Headphones,Electronics,Chennai,Online,1,1454,1454,1011.88,442.12,Credit Card,CUST099
+ORD0367,2025-09-26,September,9,Q3,Monitor,Electronics,Chennai,Store,5,10025,50125,31738.37,18386.63,Debit Card,CUST121
+ORD0368,2025-09-27,September,9,Q3,Laptop,Electronics,Tiruppur,Store,6,45600,273600,179836.0,93764.0,Credit Card,CUST067
+ORD0369,2025-09-27,September,9,Q3,Smartwatch,Electronics,Chennai,Store,3,6707,20121,16351.54,3769.46,Net Banking,CUST019
+ORD0370,2025-09-29,September,9,Q3,Laptop,Electronics,Coimbatore,Store,2,59800,119600,100097.67,19502.33,Cash,CUST023
+ORD0371,2025-09-29,September,9,Q3,Monitor,Electronics,Bengaluru,Online,6,9230,55380,43969.29,11410.71,Debit Card,CUST144
+ORD0372,2025-09-30,September,9,Q3,Monitor,Electronics,Hyderabad,Online,4,16584,66336,45908.84,20427.16,Cash,CUST054
+ORD0373,2025-09-30,September,9,Q3,Keyboard,Electronics,Chennai,Online,6,1026,6156,4337.09,1818.91,Cash,CUST054
+ORD0374,2025-10-01,October,10,Q4,Laptop,Electronics,Coimbatore,Store,4,53785,215140,166639.32,48500.68,Cash,CUST117
+ORD0375,2025-10-01,October,10,Q4,Headphones,Electronics,Bengaluru,Store,2,3799,7598,4898.21,2699.79,Debit Card,CUST094
+ORD0376,2025-10-02,October,10,Q4,Smartwatch,Electronics,Hyderabad,Online,2,9101,18202,11471.13,6730.87,Debit Card,CUST069
+ORD0377,2025-10-04,October,10,Q4,Mobile,Electronics,Chennai,Store,1,21520,21520,17600.34,3919.66,Net Banking,CUST066
+ORD0378,2025-10-04,October,10,Q4,Mobile,Electronics,Coimbatore,Store,7,25998,181986,113611.43,68374.57,Debit Card,CUST143
+ORD0379,2025-10-04,October,10,Q4,Headphones,Electronics,Bengaluru,Online,7,844,5908,5038.63,869.37,Net Banking,CUST035
+ORD0380,2025-10-05,October,10,Q4,Monitor,Electronics,Chennai,Store,4,9105,36420,23263.55,13156.45,UPI,CUST093
+ORD0381,2025-10-05,October,10,Q4,Monitor,Electronics,Tiruppur,Store,4,13762,55048,41684.66,13363.34,UPI,CUST100
+ORD0382,2025-10-06,October,10,Q4,Keyboard,Electronics,Chennai,Store,1,1947,1947,1548.15,398.85,Debit Card,CUST071
+ORD0383,2025-10-07,October,10,Q4,Keyboard,Electronics,Coimbatore,Online,4,1569,6276,5351.36,924.64,Cash,CUST004
+ORD0384,2025-10-07,October,10,Q4,Tablet,Electronics,Bengaluru,Online,2,29550,59100,39756.52,19343.48,Debit Card,CUST142
+ORD0385,2025-10-07,October,10,Q4,Headphones,Electronics,Coimbatore,Store,1,3517,3517,2906.08,610.92,Credit Card,CUST030
+ORD0386,2025-10-08,October,10,Q4,Keyboard,Electronics,Tiruppur,Store,2,2092,4184,3215.31,968.69,UPI,CUST039
+ORD0387,2025-10-08,October,10,Q4,Laptop,Electronics,Hyderabad,Online,5,63709,318545,209011.26,109533.74,UPI,CUST101
+ORD0388,2025-10-09,October,10,Q4,Smartwatch,Electronics,Tiruppur,Online,3,10648,31944,20351.48,11592.52,Cash,CUST114
+ORD0389,2025-10-09,October,10,Q4,Laptop,Electronics,Coimbatore,Store,4,52698,210792,173475.04,37316.96,Debit Card,CUST048
+ORD0390,2025-10-10,October,10,Q4,Keyboard,Electronics,Coimbatore,Store,4,667,2668,2264.37,403.63,UPI,CUST018
+ORD0391,2025-10-11,October,10,Q4,Tablet,Electronics,Tiruppur,Online,5,28277,141385,92464.85,48920.15,UPI,CUST029
+ORD0392,2025-10-12,October,10,Q4,Smartwatch,Electronics,Tiruppur,Online,1,3760,3760,2589.82,1170.18,Credit Card,CUST067
+ORD0393,2025-10-12,October,10,Q4,Smartwatch,Electronics,Tiruppur,Online,4,6436,25744,17689.03,8054.97,UPI,CUST103
+ORD0394,2025-10-12,October,10,Q4,Smartwatch,Electronics,Bengaluru,Online,3,5408,16224,12595.02,3628.98,Debit Card,CUST003
+ORD0395,2025-10-12,October,10,Q4,Headphones,Electronics,Tiruppur,Store,3,1718,5154,3682.93,1471.07,Net Banking,CUST001
+ORD0396,2025-10-13,October,10,Q4,Tablet,Electronics,Chennai,Online,4,27704,110816,84490.97,26325.03,Cash,CUST078
+ORD0397,2025-10-13,October,10,Q4,Keyboard,Electronics,Tiruppur,Online,6,1255,7530,4849.84,2680.16,Cash,CUST126
+ORD0398,2025-10-14,October,10,Q4,Monitor,Electronics,Coimbatore,Store,1,10571,10571,8079.73,2491.27,Net Banking,CUST043
+ORD0399,2025-10-14,October,10,Q4,Keyboard,Electronics,Bengaluru,Store,4,2097,8388,7071.08,1316.92,Net Banking,CUST111
+ORD0400,2025-10-14,October,10,Q4,Laptop,Electronics,Tiruppur,Online,4,54894,219576,164962.41,54613.59,Cash,CUST051
+ORD0401,2025-10-15,October,10,Q4,Laptop,Electronics,Chennai,Online,2,71667,143334,104433.43,38900.57,Net Banking,CUST077
+ORD0402,2025-10-15,October,10,Q4,Tablet,Electronics,Coimbatore,Online,4,15047,60188,51444.55,8743.45,UPI,CUST020
+ORD0403,2025-10-15,October,10,Q4,Mobile,Electronics,Hyderabad,Store,6,13189,79134,54111.37,25022.63,Debit Card,CUST007
+ORD0404,2025-10-17,October,10,Q4,Laptop,Electronics,Bengaluru,Store,3,59790,179370,151249.33,28120.67,Net Banking,CUST146
+ORD0405,2025-10-18,October,10,Q4,Monitor,Electronics,Tiruppur,Online,7,9847,68929,56955.16,11973.84,Debit Card,CUST020
+ORD0406,2025-10-18,October,10,Q4,Mobile,Electronics,Coimbatore,Store,6,21511,129066,92098.07,36967.93,Net Banking,CUST147
+ORD0407,2025-10-18,October,10,Q4,Mobile,Electronics,Coimbatore,Online,5,16289,81445,51103.21,30341.79,Credit Card,CUST085
+ORD0408,2025-10-18,October,10,Q4,Mobile,Electronics,Tiruppur,Store,5,28431,142155,94322.28,47832.72,Credit Card,CUST040
+ORD0409,2025-10-21,October,10,Q4,Headphones,Electronics,Coimbatore,Online,3,2114,6342,5022.99,1319.01,Debit Card,CUST098
+ORD0410,2025-10-21,October,10,Q4,Tablet,Electronics,Coimbatore,Online,6,16515,99090,75037.7,24052.3,UPI,CUST136
+ORD0411,2025-10-21,October,10,Q4,Headphones,Electronics,Chennai,Store,6,2068,12408,9165.84,3242.16,UPI,CUST143
+ORD0412,2025-10-21,October,10,Q4,Mobile,Electronics,Coimbatore,Store,6,27605,165630,107888.14,57741.86,Net Banking,CUST141
+ORD0413,2025-10-22,October,10,Q4,Mobile,Electronics,Bengaluru,Store,2,25950,51900,41066.43,10833.57,Net Banking,CUST074
+ORD0414,2025-10-23,October,10,Q4,Tablet,Electronics,Hyderabad,Store,2,22901,45802,34104.18,11697.82,Cash,CUST027
+ORD0415,2025-10-23,October,10,Q4,Headphones,Electronics,Chennai,Store,3,3069,9207,7758.19,1448.81,Credit Card,CUST039
+ORD0416,2025-10-25,October,10,Q4,Laptop,Electronics,Coimbatore,Online,1,70509,70509,47781.11,22727.89,Net Banking,CUST005
+ORD0417,2025-10-27,October,10,Q4,Tablet,Electronics,Chennai,Online,2,19190,38380,27283.15,11096.85,Credit Card,CUST148
+ORD0418,2025-10-28,October,10,Q4,Tablet,Electronics,Bengaluru,Online,3,20125,60375,38732.71,21642.29,Credit Card,CUST031
+ORD0419,2025-10-29,October,10,Q4,Tablet,Electronics,Hyderabad,Online,5,26350,131750,111045.0,20705.0,Debit Card,CUST120
+ORD0420,2025-10-29,October,10,Q4,Headphones,Electronics,Chennai,Store,3,4254,12762,10282.92,2479.08,Cash,CUST127
+ORD0421,2025-10-30,October,10,Q4,Headphones,Electronics,Tiruppur,Store,2,4114,8228,6615.72,1612.28,Net Banking,CUST115
+ORD0422,2025-10-30,October,10,Q4,Tablet,Electronics,Hyderabad,Store,7,16021,112147,72070.37,40076.63,Debit Card,CUST116
+ORD0423,2025-10-30,October,10,Q4,Laptop,Electronics,Bengaluru,Store,2,47518,95036,59701.91,35334.09,Cash,CUST111
+ORD0424,2025-10-31,October,10,Q4,Keyboard,Electronics,Coimbatore,Online,5,2126,10630,8776.62,1853.38,Cash,CUST042
+ORD0425,2025-10-31,October,10,Q4,Monitor,Electronics,Chennai,Online,6,11556,69336,50446.92,18889.08,Credit Card,CUST146
+ORD0426,2025-10-31,October,10,Q4,Tablet,Electronics,Chennai,Online,3,27758,83274,69205.59,14068.41,Net Banking,CUST135
+ORD0427,2025-10-31,October,10,Q4,Monitor,Electronics,Coimbatore,Online,6,11686,70116,51928.11,18187.89,Debit Card,CUST071
+ORD0428,2025-11-03,November,11,Q4,Mobile,Electronics,Bengaluru,Online,4,20613,82452,54124.17,28327.83,Cash,CUST085
+ORD0429,2025-11-03,November,11,Q4,Headphones,Electronics,Hyderabad,Store,4,2330,9320,6352.64,2967.36,Net Banking,CUST002
+ORD0430,2025-11-04,November,11,Q4,Keyboard,Electronics,Chennai,Online,7,1544,10808,8875.02,1932.98,Net Banking,CUST079
+ORD0431,2025-11-05,November,11,Q4,Headphones,Electronics,Hyderabad,Online,2,1429,2858,2172.65,685.35,Credit Card,CUST025
+ORD0432,2025-11-06,November,11,Q4,Monitor,Electronics,Coimbatore,Store,1,17341,17341,13098.13,4242.87,Credit Card,CUST009
+ORD0433,2025-11-07,November,11,Q4,Tablet,Electronics,Hyderabad,Store,2,23968,47936,30497.2,17438.8,Debit Card,CUST045
+ORD0434,2025-11-08,November,11,Q4,Mobile,Electronics,Coimbatore,Store,5,13605,68025,44113.03,23911.97,Credit Card,CUST135
+ORD0435,2025-11-09,November,11,Q4,Mobile,Electronics,Coimbatore,Online,2,16277,32554,24774.65,7779.35,Cash,CUST074
+ORD0436,2025-11-09,November,11,Q4,Headphones,Electronics,Bengaluru,Store,2,2543,5086,3280.45,1805.55,Cash,CUST069
+ORD0437,2025-11-09,November,11,Q4,Tablet,Electronics,Tiruppur,Store,2,28088,56176,47264.57,8911.43,UPI,CUST135
+ORD0438,2025-11-10,November,11,Q4,Laptop,Electronics,Coimbatore,Online,7,60781,425467,360540.03,64926.97,Credit Card,CUST054
+ORD0439,2025-11-10,November,11,Q4,Smartwatch,Electronics,Tiruppur,Store,6,6798,40788,27148.94,13639.06,Net Banking,CUST129
+ORD0440,2025-11-12,November,11,Q4,Mobile,Electronics,Tiruppur,Online,5,22986,114930,73108.97,41821.03,UPI,CUST099
+ORD0441,2025-11-13,November,11,Q4,Laptop,Electronics,Bengaluru,Store,5,54153,270765,173984.14,96780.86,Net Banking,CUST134
+ORD0442,2025-11-16,November,11,Q4,Keyboard,Electronics,Hyderabad,Online,7,1364,9548,6232.49,3315.51,Net Banking,CUST056
+ORD0443,2025-11-20,November,11,Q4,Monitor,Electronics,Coimbatore,Online,4,12909,51636,32765.69,18870.31,Credit Card,CUST082
+ORD0444,2025-11-21,November,11,Q4,Mobile,Electronics,Bengaluru,Online,3,27286,81858,54621.41,27236.59,Credit Card,CUST095
+ORD0445,2025-11-22,November,11,Q4,Tablet,Electronics,Coimbatore,Store,2,20822,41644,31155.43,10488.57,Cash,CUST003
+ORD0446,2025-11-22,November,11,Q4,Tablet,Electronics,Coimbatore,Store,5,19348,96740,82411.71,14328.29,UPI,CUST137
+ORD0447,2025-11-22,November,11,Q4,Monitor,Electronics,Chennai,Store,3,15731,47193,34119.77,13073.23,Cash,CUST081
+ORD0448,2025-11-22,November,11,Q4,Monitor,Electronics,Tiruppur,Store,4,15805,63220,40604.22,22615.78,UPI,CUST019
+ORD0449,2025-11-23,November,11,Q4,Smartwatch,Electronics,Tiruppur,Store,1,9640,9640,7650.53,1989.47,Net Banking,CUST090
+ORD0450,2025-11-24,November,11,Q4,Smartwatch,Electronics,Tiruppur,Store,5,11303,56515,45273.99,11241.01,Debit Card,CUST131
+ORD0451,2025-11-24,November,11,Q4,Laptop,Electronics,Tiruppur,Online,1,45983,45983,30896.19,15086.81,Net Banking,CUST113
+ORD0452,2025-11-25,November,11,Q4,Smartwatch,Electronics,Hyderabad,Online,3,7139,21417,14245.41,7171.59,Cash,CUST106
+ORD0453,2025-11-26,November,11,Q4,Tablet,Electronics,Chennai,Store,5,18065,90325,75252.19,15072.81,Cash,CUST013
+ORD0454,2025-11-27,November,11,Q4,Mobile,Electronics,Chennai,Store,3,18327,54981,46915.11,8065.89,Debit Card,CUST092
+ORD0455,2025-11-27,November,11,Q4,Mobile,Electronics,Coimbatore,Online,5,19075,95375,60037.2,35337.8,Cash,CUST093
+ORD0456,2025-11-28,November,11,Q4,Laptop,Electronics,Hyderabad,Store,1,69274,69274,55078.29,14195.71,Credit Card,CUST114
+ORD0457,2025-12-01,December,12,Q4,Mobile,Electronics,Tiruppur,Online,2,22848,45696,33114.65,12581.35,Credit Card,CUST118
+ORD0458,2025-12-01,December,12,Q4,Headphones,Electronics,Bengaluru,Store,4,2873,11492,8774.83,2717.17,Cash,CUST150
+ORD0459,2025-12-03,December,12,Q4,Keyboard,Electronics,Coimbatore,Store,3,749,2247,1490.59,756.41,Credit Card,CUST023
+ORD0460,2025-12-04,December,12,Q4,Tablet,Electronics,Hyderabad,Online,2,19120,38240,30721.18,7518.82,Cash,CUST138
+ORD0461,2025-12-04,December,12,Q4,Keyboard,Electronics,Chennai,Store,7,661,4627,3316.57,1310.43,UPI,CUST044
+ORD0462,2025-12-05,December,12,Q4,Mobile,Electronics,Chennai,Online,7,21140,147980,99168.84,48811.16,UPI,CUST087
+ORD0463,2025-12-05,December,12,Q4,Tablet,Electronics,Tiruppur,Online,6,22470,134820,95778.35,39041.65,Net Banking,CUST047
+ORD0464,2025-12-05,December,12,Q4,Laptop,Electronics,Coimbatore,Store,3,64872,194616,152879.21,41736.79,Net Banking,CUST056
+ORD0465,2025-12-05,December,12,Q4,Headphones,Electronics,Chennai,Store,5,2901,14505,9586.01,4918.99,UPI,CUST078
+ORD0466,2025-12-07,December,12,Q4,Keyboard,Electronics,Chennai,Online,3,2402,7206,5719.39,1486.61,Net Banking,CUST130
+ORD0467,2025-12-07,December,12,Q4,Smartwatch,Electronics,Chennai,Store,1,10438,10438,6531.07,3906.93,UPI,CUST082
+ORD0468,2025-12-08,December,12,Q4,Keyboard,Electronics,Bengaluru,Online,2,1997,3994,3001.83,992.17,Credit Card,CUST120
+ORD0469,2025-12-08,December,12,Q4,Monitor,Electronics,Tiruppur,Online,1,12378,12378,10612.68,1765.32,UPI,CUST086
+ORD0470,2025-12-08,December,12,Q4,Keyboard,Electronics,Chennai,Store,1,2396,2396,1760.19,635.81,UPI,CUST100
+ORD0471,2025-12-09,December,12,Q4,Monitor,Electronics,Coimbatore,Online,6,14538,87228,62844.11,24383.89,Credit Card,CUST053
+ORD0472,2025-12-09,December,12,Q4,Headphones,Electronics,Bengaluru,Online,4,1780,7120,4973.0,2147.0,Cash,CUST038
+ORD0473,2025-12-09,December,12,Q4,Monitor,Electronics,Chennai,Online,1,11015,11015,9134.79,1880.21,Cash,CUST087
+ORD0474,2025-12-10,December,12,Q4,Laptop,Electronics,Chennai,Online,5,57204,286020,235520.3,50499.7,Debit Card,CUST023
+ORD0475,2025-12-12,December,12,Q4,Headphones,Electronics,Chennai,Online,1,831,831,667.24,163.76,Net Banking,CUST041
+ORD0476,2025-12-14,December,12,Q4,Laptop,Electronics,Hyderabad,Store,6,54058,324348,206689.76,117658.24,Credit Card,CUST114
+ORD0477,2025-12-15,December,12,Q4,Keyboard,Electronics,Chennai,Online,4,1282,5128,3911.87,1216.13,Net Banking,CUST146
+ORD0478,2025-12-15,December,12,Q4,Mobile,Electronics,Coimbatore,Store,2,21116,42232,27439.91,14792.09,Cash,CUST090
+ORD0479,2025-12-16,December,12,Q4,Mobile,Electronics,Bengaluru,Online,5,30223,151115,126061.64,25053.36,Net Banking,CUST031
+ORD0480,2025-12-17,December,12,Q4,Mobile,Electronics,Hyderabad,Online,4,24115,96460,66690.41,29769.59,Debit Card,CUST140
+ORD0481,2025-12-17,December,12,Q4,Headphones,Electronics,Hyderabad,Online,7,3323,23261,16749.29,6511.71,Debit Card,CUST138
+ORD0482,2025-12-18,December,12,Q4,Headphones,Electronics,Hyderabad,Store,1,2089,2089,1413.85,675.15,UPI,CUST011
+ORD0483,2025-12-18,December,12,Q4,Keyboard,Electronics,Chennai,Store,6,2370,14220,9492.07,4727.93,Cash,CUST126
+ORD0484,2025-12-19,December,12,Q4,Laptop,Electronics,Chennai,Online,7,49136,343952,273155.75,70796.25,UPI,CUST104
+ORD0485,2025-12-20,December,12,Q4,Keyboard,Electronics,Bengaluru,Store,2,1800,3600,2947.56,652.44,Cash,CUST132
+ORD0486,2025-12-20,December,12,Q4,Smartwatch,Electronics,Chennai,Store,3,6949,20847,16413.8,4433.2,UPI,CUST089
+ORD0487,2025-12-20,December,12,Q4,Mobile,Electronics,Tiruppur,Online,3,27280,81840,65592.22,16247.78,Net Banking,CUST075
+ORD0488,2025-12-20,December,12,Q4,Mobile,Electronics,Coimbatore,Online,2,12147,24294,18207.5,6086.5,Net Banking,CUST086
+ORD0489,2025-12-21,December,12,Q4,Laptop,Electronics,Tiruppur,Store,4,46325,185300,140812.21,44487.79,Debit Card,CUST052
+ORD0490,2025-12-21,December,12,Q4,Smartwatch,Electronics,Coimbatore,Store,6,8404,50424,39026.73,11397.27,Cash,CUST094
+ORD0491,2025-12-22,December,12,Q4,Monitor,Electronics,Bengaluru,Online,1,12913,12913,8319.67,4593.33,Credit Card,CUST127
+ORD0492,2025-12-22,December,12,Q4,Headphones,Electronics,Coimbatore,Online,7,4413,30891,24186.8,6704.2,Credit Card,CUST089
+ORD0493,2025-12-23,December,12,Q4,Mobile,Electronics,Bengaluru,Online,1,17100,17100,13997.82,3102.18,Debit Card,CUST145
+ORD0494,2025-12-25,December,12,Q4,Smartwatch,Electronics,Hyderabad,Store,3,5311,15933,11584.88,4348.12,UPI,CUST109
+ORD0495,2025-12-28,December,12,Q4,Tablet,Electronics,Coimbatore,Store,2,22796,45592,28818.3,16773.7,UPI,CUST057
+ORD0496,2025-12-28,December,12,Q4,Mobile,Electronics,Coimbatore,Store,3,15694,47082,39859.36,7222.64,Net Banking,CUST036
+ORD0497,2025-12-29,December,12,Q4,Monitor,Electronics,Coimbatore,Store,2,8163,16326,13318.35,3007.65,Credit Card,CUST126
+ORD0498,2025-12-29,December,12,Q4,Keyboard,Electronics,Hyderabad,Store,6,2123,12738,8236.35,4501.65,Net Banking,CUST144
+ORD0499,2025-12-30,December,12,Q4,Mobile,Electronics,Chennai,Store,2,21249,42498,35766.0,6732.0,Net Banking,CUST098
+ORD0500,2025-12-31,December,12,Q4,Headphones,Electronics,Bengaluru,Store,4,4469,17876,11991.54,5884.46,Cash,CUST075
